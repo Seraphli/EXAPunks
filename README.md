@@ -17,3 +17,9 @@
 | [Euclid's Pizza - Order System](Levels/05-euclids-pizza-order-system) | 13 (**T%**) | 11 (**T%**) | 1 (**T%**) |
 | [Mitsuzen HDI-10 - Left Arm](Levels/06-mitsuzen-hdi-10-left-arm) | 70 (**10%**) | 19 | 5 (**T%**) |
 | [Last Stop Snaxnet - Factory 11](Levels/07-last-stop-snaxnet-factory-11) | 29 (**T%**) | 11 (**T%**) | 2 (**T%**) |
+
+## Nonograms
+
+Nonograms on the last page of issue #2.
+
+![nonograms](nonograms.jpg)
