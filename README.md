@@ -18,7 +18,15 @@
 | [Mitsuzen HDI-10 - Left Arm](Levels/06-mitsuzen-hdi-10-left-arm) | 70 (**10%**) | 19 | 5 (**T%**) |
 | [Last Stop Snaxnet - Factory 11](Levels/07-last-stop-snaxnet-factory-11) | 29 (**T%**) | 11 (**T%**) | 2 (**T%**) |
 
-## Nonograms
+## More
+
+### Solitaire
+
+I write a script to play the card game in the EXAPunks, using MCTS and Python.
+
+Check out this [repo](https://github.com/Seraphli/EXAPunksCardGame).
+
+### Nonograms
 
 Nonograms on the last page of issue #2.
 
