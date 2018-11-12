@@ -28,6 +28,10 @@ I write a script to play the card game in the EXAPunks, using MCTS and Python.
 
 Check out this [repo](https://github.com/Seraphli/EXAPunksCardGame).
 
+### Achievement Guide
+
+Check out this [guide](Achievement.md).
+
 ### Nonograms
 
 Nonograms on the last page of issue #2.
