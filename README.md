@@ -20,6 +20,8 @@
 | [Zebros Copies - Point-Of-Sale System](Levels/08-zebros-copies-point-of-sale-system) | 60 (**10%**) | 27 | 2 (**T%**) |
 | [SFCTA Highway Sign #4902 - Remote Access Interface](Levels/09-sfcta-highway-sign-4902-remote-access-interface) | 94 (**10%**) | 10 (**T%**) | 1 (**T%**) |
 | [Unknown Network 1 - Unknown Context](Levels/10-unknown-network-1-unknown-context) | 16 (**10%**) | 17 (**10%**) | 27 (**T%**) |
+| [UC Berkeley - EECS Department](Levels/11-uc-berkeley-eecs-department) | 124 (**10%**) | 28 (**T%**) | 7 (**T%**) |
+| [Workhouse - Work Management System](Levels/12-workhouse-work-management-system) | 232 (**10%**) | 27 (**10%**) | 2 (**T%**) |
 
 ## More
 
