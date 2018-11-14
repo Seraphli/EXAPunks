@@ -22,6 +22,8 @@
 | [Unknown Network 1 - Unknown Context](Levels/10-unknown-network-1-unknown-context) | 16 (**10%**) | 17 (**10%**) | 27 (**T%**) |
 | [UC Berkeley - EECS Department](Levels/11-uc-berkeley-eecs-department) | 124 (**10%**) | 28 (**T%**) | 7 (**T%**) |
 | [Workhouse - Work Management System](Levels/12-workhouse-work-management-system) | 232 (**10%**) | 27 (**10%**) | 2 (**T%**) |
+| [Equity First Bank - San Fancisco](Levels/13-equity-first-bank-san-francisco) | 1218 | 16 | 10 (**T%**) |
+| [Mitsuzen HDI-10 - Heart](Levels/14-mitsuzen-hdi-10-heart) | 119 | 26 (**T%**) | 5 (**T%**) |
 
 ## More
 
