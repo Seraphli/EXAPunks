@@ -24,6 +24,14 @@
 | [Workhouse - Work Management System](Levels/12-workhouse-work-management-system) | 232 (**10%**) | 27 (**10%**) | 2 (**T%**) |
 | [Equity First Bank - San Fancisco](Levels/13-equity-first-bank-san-francisco) | 1218 | 16 | 10 (**T%**) |
 | [Mitsuzen HDI-10 - Heart](Levels/14-mitsuzen-hdi-10-heart) | 119 | 26 (**T%**) | 5 (**T%**) |
+| [Trash World News - Unknown Context](Levels/15-trash-world-news-unknown-context) | 555 | 24 | 4 |
+| [TEC Redshift - Development Kit](Levels/16-tec-redshift-development-kit) | 3974 (**10%**) | 23 | 2 (**T%**) |
+
+## Battles
+
+| Level                                                        | Rating | Wins | Draws | Losses |
+| ------------------------------------------------------------ | ------ | ---- | ----- | ------ |
+| [KGOG-TV - Programming Hub](battles/01-kgog-tv-programming-hub) | S+     | 100  | 0     | 0      |
 
 ## More
 
