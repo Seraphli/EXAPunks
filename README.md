@@ -26,12 +26,29 @@
 | [Mitsuzen HDI-10 - Heart](Levels/14-mitsuzen-hdi-10-heart) | 119 | 26 (**T%**) | 5 (**T%**) |
 | [Trash World News - Unknown Context](Levels/15-trash-world-news-unknown-context) | 555 | 24 | 4 |
 | [TEC Redshift - Development Kit](Levels/16-tec-redshift-development-kit) | 3974 (**10%**) | 23 | 2 (**T%**) |
+| [Digital Library Project - Patron Access System](Levels/17-digital-library-project-patron-access-system) | 377 | 41 | 74 |
+| [TEC EXA-Blaster Modem - Radio Stations](Levels/18-tec-exa-blaster-modem-radio-stations) | 504 | 56 | 10 (**10%**) |
+| [Emerson's Guide - Streetsmarts GIS Database](Levels/19-emersonsguide-streetsmarts-gis-database) | 62 | 37 (**10%**) | 6 (**T%**) |
+| [Mitsuzen HDI-10 - Left Hand](Levels/20-mitsuzen-hdi-10-left-hand) | 159 | 55 | 19 |
+| [Sawayama Wonderdisc - Drive Controller](Levels/21-sawayama-wonderdisc-drive-controller) |  |  |  |
+| [Alliance Power and Light - Streetsmarts GIS Database](Levels/22-alliance-power-and-light-streetsmarts-gis-database) |  |  |  |
+| [Xtreme League Baseball - Player Database](Levels/23-xtreme-league-baseball-player-database) |  |  |  |
+| [King's Ransom Online - US West Realm](Levels/24-kings-ransom-online-us-west-realm) |  |  |  |
+| [KGOG-TV - Satellite Uplink](Levels/25-kgog-tv-satellite-uplink) |  |  |  |
+| [Equity First Bank - San Francisco - ATMs Offline](Levels/26-equity-first-bank-san-francisco-atms-offline) |  |  |  |
+| [Tec EXA-Blaster Modem - Dataphone Network](Levels/27-tec-exa-blaster-modem-dataphone-network) |  |  |  |
+| [Last Stop Snaxnet - Warehouse 27](Levels/28-last-stop-snaxnet-warehouse-27) |  |  |  |
+| [Mitsuzen HDI-10 - Visual Cortex](Levels/29-mitsuzen-hdi-10-visual-cortex) |  |  |  |
+| [Holman Dynamics - Sales System](Levels/30-holman-dynamics-sales-system) |  |  |  |
 
 ## Battles
 
 | Level                                                        | Rating | Wins | Draws | Losses |
 | ------------------------------------------------------------ | ------ | ---- | ----- | ------ |
-| [KGOG-TV - Programming Hub](battles/01-kgog-tv-programming-hub) | S+     | 100  | 0     | 0      |
+| [KGOG-TV - Programming Hub](Battles/01-kgog-tv-programming-hub) | S+     | 100  | 0     | 0      |
+| [Valhalla - =Plastered](Battles/02-valhalla-plastered)       | S+     | 100  | 0     | 0      |
+| [Deadlock's Domain - Deadlock](Battles/03-deadlocks-domain-deadlock) |        |      |       |        |
+| [The Wormhole - x10x10](Battles/04-the-wormhole-x10x10x)     |        |      |       |        |
 
 ## More
 
