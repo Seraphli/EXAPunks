@@ -90,3 +90,41 @@ LINK 800
 KILL
 ```
 
+## HOME_RUN
+
+**Level:** Xtreme League Baseball
+
+**Solution:**
+
+```
+LINK 800
+LINK 799
+@REP 4
+LINK 800
+@END
+```
+
+## TONER_LOW
+
+**Level:** Zebros Copies
+
+**Solution:**
+
+```
+LINK 800
+LINK 800
+@REP 4
+REPL C@{1,1}
+@END
+
+@REP 4
+MARK C@{1,1}
+LINK 80@{0,1}
+JUMP L
+@END
+MARK L
+COPY 1 #COPY
+JUMP L
+```
+
+**Note:** You have to keep running this code until you unlock the achievement. Start over if you reach the maximum cycles.
