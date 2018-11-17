@@ -128,3 +128,147 @@ JUMP L
 ```
 
 **Note:** You have to keep running this code until you unlock the achievement. Start over if you reach the maximum cycles.
+
+## KLEPTOMANCER
+
+**Level:** Kings Ransom Online
+
+**Solution:**
+
+```
+GRAB 300
+WIPE
+LINK 800
+COPY 6 T
+MARK L1
+SUBI T 1 T
+REPL C
+TJMP L1
+@REP 5
+NOOP
+@END
+COPY 6 T
+MARK L2
+SUBI T 1 T
+REPL C1
+TJMP L2
+HALT
+
+MARK C
+ADDI 800 T T
+LINK T
+KILL
+KILL
+KILL
+HALT
+
+MARK C1
+ADDI 800 T T
+LINK T
+COPY 201 X
+COPY 99 T
+MARK C1L
+MODI -1 T T
+REPL C2
+JUMP C1L
+HALT
+
+MARK C2
+ADDI X T X
+GRAB X
+SEEK 1
+TEST F > 0
+FJMP C2E
+LINK -1
+LINK -1
+MARK C2E
+```
+
+## BLACKOUT
+
+**Level:** Kings Ransom Online
+
+**Solution:**
+
+```
+LINK 800
+MARK L
+COPY 2 T
+REPL C1
+REPL C2
+COPY 1 T
+REPL C1
+REPL C2
+REPL CHECK
+LINK 801
+JUMP L
+
+MARK C1
+LINK 800
+SUBI T 1 T
+TJMP C1
+JUMP CHECK
+
+MARK C2
+LINK 802
+SUBI T 1 T
+TJMP C2
+JUMP CHECK
+
+MARK CHECK
+COPY 0 #POWR
+```
+
+## RITE_OF_PASSAGE
+
+**Level:** TEC Redshift
+
+**Solution:**
+
+```
+LINK 800
+REPL LOOP
+ADDI X 1 X
+NOOP
+NOOP
+
+MARK LOOP
+SWIZ X 1 #PASS
+SWIZ X 2 #PASS
+SWIZ X 3 #PASS
+REPL J
+ADDI X 2 X
+TEST MRD
+TJMP END
+JUMP LOOP
+
+MARK J
+LINK 800
+GRAB 220
+SEEK 9999
+SEEK -3
+COPY F X
+SEEK 1
+COPY X F
+
+MARK END
+```
+
+## DRIVING_TEST
+
+**Level:** Motor Vehicle Administration
+
+**Solution:**
+
+```
+LINK 800
+LINK 799
+@REP 6
+LINK 800
+@END
+LINK 801
+LINK -1
+LINK 800
+LINK -1
+```
+
