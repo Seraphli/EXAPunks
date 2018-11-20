@@ -31,8 +31,8 @@
 | [Emerson's Guide - Streetsmarts GIS Database](Levels/19-emersonsguide-streetsmarts-gis-database) | 62 | 37 (**10%**) | 6 (**T%**) |
 | [Mitsuzen HDI-10 - Left Hand](Levels/20-mitsuzen-hdi-10-left-hand) | 81 | 53 | 19 |
 | [Sawayama Wonderdisc - Drive Controller](Levels/21-sawayama-wonderdisc-drive-controller) | 5417 (**10%**) | 54 | 92 |
-| [Alliance Power and Light - Streetsmarts GIS Database](Levels/22-alliance-power-and-light-streetsmarts-gis-database) |  |  |  |
-| [Xtreme League Baseball - Player Database](Levels/23-xtreme-league-baseball-player-database) |  |  |  |
+| [Alliance Power and Light - Streetsmarts GIS Database](Levels/22-alliance-power-and-light-streetsmarts-gis-database) | 74 | 59 | 56 |
+| [Xtreme League Baseball - Player Database](Levels/23-xtreme-league-baseball-player-database) | 541 | 96 | 3 |
 | [King's Ransom Online - US West Realm](Levels/24-kings-ransom-online-us-west-realm) |  |  |  |
 | [KGOG-TV - Satellite Uplink](Levels/25-kgog-tv-satellite-uplink) |  |  |  |
 | [Equity First Bank - San Francisco - ATMs Offline](Levels/26-equity-first-bank-san-francisco-atms-offline) |  |  |  |
