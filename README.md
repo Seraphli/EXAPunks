@@ -33,17 +33,17 @@
 | [Sawayama Wonderdisc - Drive Controller](Levels/21-sawayama-wonderdisc-drive-controller) | 5417 (**10%**) | 54 | 92 |
 | [Alliance Power and Light - Streetsmarts GIS Database](Levels/22-alliance-power-and-light-streetsmarts-gis-database) | 74 | 59 | 56 |
 | [Xtreme League Baseball - Player Database](Levels/23-xtreme-league-baseball-player-database) | 541 | 96 | 3 |
-| [King's Ransom Online - US West Realm](Levels/24-kings-ransom-online-us-west-realm) |  |  |  |
-| [KGOG-TV - Satellite Uplink](Levels/25-kgog-tv-satellite-uplink) |  |  |  |
-| [Equity First Bank - San Francisco - ATMs Offline](Levels/26-equity-first-bank-san-francisco-atms-offline) |  |  |  |
-| [TEC EXA-Blaster Modem - Dataphone Network](Levels/27-tec-exa-blaster-modem-dataphone-network) |  |  |  |
-| [Last Stop Snaxnet - Warehouse 27](Levels/28-last-stop-snaxnet-warehouse-27) |  |  |  |
-| [Mitsuzen HDI-10 - Visual Cortex](Levels/29-mitsuzen-hdi-10-visual-cortex) |  |  |  |
-| [Holman Dynamics - Sales System](Levels/30-holman-dynamics-sales-system) |  |  |  |
-| [U.S. Government - Fema Genetic Database](Levels/31-us-government-fema-genetic-database) | | | |
-| [Unknown Network 2 - Unknown Context](Levels/32-unknown-network-2-unknown-context) | | | |
-| [TEC EXA-Blaster Modem - Pager Network](Levels/33-tec-exa-blaster-modem-pager-network) | | | |
-| [Mitsuzen HDI-10 - Cerebral Cortex](Levels/34-mitsuzen-hdi-10-cerebal-cortex) | | | |
+| [King's Ransom Online - US West Realm](Levels/24-kings-ransom-online-us-west-realm) | 76 | 42 | 31 |
+| [KGOG-TV - Satellite Uplink](Levels/25-kgog-tv-satellite-uplink) | 471 | 87 | 10 |
+| [Equity First Bank - San Francisco - ATMs Offline](Levels/26-equity-first-bank-san-francisco-atms-offline) | 285 | 66 | 2 (**T%**) |
+| [TEC EXA-Blaster Modem - Dataphone Network](Levels/27-tec-exa-blaster-modem-dataphone-network) | 1024 (**10%**) | 49 | 9 (**T%**) |
+| [Last Stop Snaxnet - Warehouse 27](Levels/28-last-stop-snaxnet-warehouse-27) | 276 | 68 | 24 |
+| [Mitsuzen HDI-10 - Visual Cortex](Levels/29-mitsuzen-hdi-10-visual-cortex) | 604 | 39 | 10 (**T%**) |
+| [Holman Dynamics - Sales System](Levels/30-holman-dynamics-sales-system) | 4046 | 60 (**10%**) | 3 (**T%**) |
+| [U.S. Government - Fema Genetic Database](Levels/31-us-government-fema-genetic-database) | 1379 | 113 | 23 (**10%**) |
+| [Unknown Network 2 - Unknown Context](Levels/32-unknown-network-2-unknown-context) | 252 | 38 | 54 |
+| [TEC EXA-Blaster Modem - Pager Network](Levels/33-tec-exa-blaster-modem-pager-network) | 1091 | 71 | 11 |
+| [Mitsuzen HDI-10 - Cerebral Cortex](Levels/34-mitsuzen-hdi-10-cerebal-cortex) | 2603 | 88 (**10%**) | 16 (**T%**) |
 
 ## Battles
 
