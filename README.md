@@ -21,7 +21,7 @@
 | [Euclid's Pizza - Order System](Levels/05-euclids-pizza-order-system) | 13 (**T%**) | 11 (**T%**) | 1 (**T%**) |
 | [Mitsuzen HDI-10 - Left Arm](Levels/06-mitsuzen-hdi-10-left-arm) | 53 (**10%**) | 11 (**10%**) | 5 (**T%**) |
 | [Last Stop Snaxnet - Factory 11](Levels/07-last-stop-snaxnet-factory-11) | 29 (**T%**) | 11 (**T%**) | 2 (**T%**) |
-| [Zebros Copies - Point-Of-Sale System](Levels/08-zebros-copies-point-of-sale-system) | 60 (**10%**) | 27 | 2 (**T%**) |
+| [Zebros Copies - Point-Of-Sale System](Levels/08-zebros-copies-point-of-sale-system) | 60 (**10%**) | 26 | 2 (**T%**) |
 | [SFCTA Highway Sign #4902 - Remote Access Interface](Levels/09-sfcta-highway-sign-4902-remote-access-interface) | 94 (**10%**) | 10 (**T%**) | 1 (**T%**) |
 | [Unknown Network 1 - Unknown Context](Levels/10-unknown-network-1-unknown-context) | 16 (**10%**) | 17 (**10%**) | 27 (**T%**) |
 | [UC Berkeley - EECS Department](Levels/11-uc-berkeley-eecs-department) | 124 (**10%**) | 28 (**T%**) | 7 (**T%**) |
