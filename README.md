@@ -12,6 +12,8 @@
 
 ## Code Solutions
 
+### Main Campaign
+
 | Level | Cycles | Size | Activity |
 | - | - | - | - |
 | [Trash World News - Tutorial 1](Levels/01-trash-world-news-tutorial-1) | 4 (**T%**) | 3 (**T%**) | 2 (**T%**) |
@@ -48,6 +50,15 @@
 | [Unknown Network 2 - Unknown Context](Levels/32-unknown-network-2-unknown-context) | 252 | 38 | 54 |
 | [TEC EXA-Blaster Modem - Pager Network](Levels/33-tec-exa-blaster-modem-pager-network) | 1091 | 71 | 11 |
 | [Mitsuzen HDI-10 - Cerebral Cortex](Levels/34-mitsuzen-hdi-10-cerebal-cortex) | 2603 | 88 (**10%**) | 16 (**T%**) |
+
+### Bonus Campaign
+
+| Level | Cycles | Size | Activity |
+| - | - | - | - |
+| [Bloodlust Online](Levels/b01-bloodlust-online) | 176 | 144 | 18 |
+| [Motor Vehicle Administration](Levels/b02-motor-vehicle-administration) | 741 | 99 | 7 |
+| [Cybermyth Studios](Levels/b03-cybermyth-studios) | - | - | - |
+| [U.S. Department of Defense](Levels/b04-us-department-of-defense) | 1078 | 95 | 114 |
 
 ## Battles
 
