@@ -1,4 +1,4 @@
-# EXAPunks Walkthrough
+# EXAPunks Walkthrough(Solutions)
 
 ## Thanks
 
