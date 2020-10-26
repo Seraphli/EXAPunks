@@ -57,7 +57,7 @@
 | - | - | - | - |
 | [Bloodlust Online](Levels/b01-bloodlust-online) | 176 | 144 | 18 |
 | [Motor Vehicle Administration](Levels/b02-motor-vehicle-administration) | 741 | 99 | 7 |
-| [Cybermyth Studios](Levels/b03-cybermyth-studios) | - | - | - |
+| [Cybermyth Studios](Levels/b03-cybermyth-studios) | 1514 | 148 | 18 |
 | [U.S. Department of Defense](Levels/b04-us-department-of-defense) | 1078 | 95 | 114 |
 
 ## Battles
