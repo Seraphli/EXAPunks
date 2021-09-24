@@ -59,6 +59,11 @@
 | [Motor Vehicle Administration](Levels/b02-motor-vehicle-administration) | 741 | 99 | 7 |
 | [Cybermyth Studios](Levels/b03-cybermyth-studios) | 1514 | 148 | 18 |
 | [U.S. Department of Defense](Levels/b04-us-department-of-defense) | 1078 | 95 | 114 |
+| [Netronics Net40 Modem](Levels/b05-netronics-net40-modem) | 112K | 127 | 20 |
+| [Espanola Valley High School](Levels/b06-espanola-valley-high-school) | 2392 | 77 | 8 |
+| [Mitsuzen D300-N](Levels/b07-mitsuzen-d300-n) | 3103 | 139 | 73 |
+| [Crystalair International](Levels/b08-crystalair-international) | 414 | 150 | 39 |
+
 
 ## Battles
 
