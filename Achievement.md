@@ -186,7 +186,7 @@ MARK C2E
 
 ## BLACKOUT
 
-**Level:** Kings Ransom Online
+**Level:** Allience Power And Light
 
 **Solution:**
 
